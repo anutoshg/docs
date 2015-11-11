@@ -71,7 +71,7 @@ which for this example will be ``Ingredient.php``.
     than your model file (which CakePHP assumes is missing). If
     you're trying to use a method you've defined in your model, or a
     behavior attached to your model, and you're getting SQL errors that
-    are the name of the method you're calling, it's a sure sign that
+    has the name of the method you're calling, it's a sure sign that
     CakePHP can't find your model and you need to check the file
     names, your application cache, or both.
 
